@@ -320,10 +320,12 @@
   top: 400%;
 }
 
-@media screen and (max-width: 386px) {
+@media screen and (max-width: 419px) {
   .ground {
-    height: 425vh;
+    height: 445vh;
     width: 100vw;
+    background-image: none;
+    background: linear-gradient(#5CB6DA, #95D3EC);
   }
 
   .stars {
@@ -367,11 +369,11 @@
   }
 
   .footer {
-    top: 690%;
+    top: 709%;
   }
 }
 
-@media screen and (min-width: 387px) and (max-width: 767px) {
+@media screen and (min-width: 420px) and (max-width: 767px) {
   .ground {
     height: 400vh;
     width: 100vw;
