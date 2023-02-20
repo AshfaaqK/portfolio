@@ -322,7 +322,7 @@
 
 @media screen and (max-width: 419px) {
   .ground {
-    height: 432vh;
+    height: 420vh;
     width: 100vw;
     background-image: none;
     background: linear-gradient(#5CB6DA, #95D3EC);
